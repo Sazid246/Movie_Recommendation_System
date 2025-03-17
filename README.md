@@ -18,7 +18,7 @@ Requests (for fetching posters from TMDb API)
 # 🔧 Setup Instructions:
 Clone this repository.
 Install dependencies:
-# pip install streamlit requests pickle-mixin
+pip install streamlit requests pickle-mixin
 Run the application:
-# streamlit run app.py
+streamlit run app.py
 📌 Note: You may need a valid API key from TMDb to fetch movie posters.
