@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System 🎥
+## 🎬 Movie Recommender System 🎥
 This repository contains a content-based movie recommendation system built with Streamlit for an interactive user experience. The system suggests similar movies based on a selected title using precomputed similarity scores.
 
 # 🚀 Features:
